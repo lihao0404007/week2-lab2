@@ -2,7 +2,7 @@
 
 int main (void)
 {
-    printf("Hello WorldMy email address is: \nhao.li-30@student.manchester.ac.uk ");
+    printf("Hello My email address is: \nhao.li-30@student.manchester.ac.uk ");
 
     return 0;
 
